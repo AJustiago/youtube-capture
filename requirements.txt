@@ -1,1 +1,2 @@
 yt-dlp==2025.5.22
+opencv-python
